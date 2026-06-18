@@ -8,4 +8,4 @@ Aluno: Ricardo Pereira Lourenço de Carvalho
 
 Docente: Daniel R. Cassar
 
-Este projeto busca automatizar o processo da obtenção de auto-valores e auto-vetores de matrizes quadradas de até 3 linhas
+Este projeto automatiza o processo da resolução de sistemas lineares e a classificação destes sistemas
