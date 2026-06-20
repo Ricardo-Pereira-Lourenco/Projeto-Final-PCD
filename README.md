@@ -8,4 +8,4 @@ Aluno: Ricardo Pereira Lourenço de Carvalho
 
 Docentes: Daniel R. Cassar, Leandro N. Lemos, James M. de Almeida
 
-Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e a classificação destes
+Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e sistemas 2x2 e a classificação destes
