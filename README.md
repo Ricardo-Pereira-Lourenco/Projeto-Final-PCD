@@ -11,4 +11,5 @@
 **Data de entrega: 21/06/2026**
 
 Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes
+
 Abra o arquivo Projeto final-Ricardo.jpynb para acessar o projeto
