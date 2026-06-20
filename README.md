@@ -6,6 +6,6 @@ Instituição: Ilum Escola de Ciência
 
 Aluno: Ricardo Pereira Lourenço de Carvalho
 
-Docente: Daniel R. Cassar
+Docentes: Daniel R. Cassar, Leandro N. Lemos, James M. de Almeida
 
-Este projeto automatiza o processo da resolução de sistemas lineares e a classificação destes sistemas
+Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e a classificação destes
