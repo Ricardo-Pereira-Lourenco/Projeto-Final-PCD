@@ -10,6 +10,14 @@
 
 **Docentes: Daniel R. Cassar, James M. de Almeida, Leandro N. Lemos**
 
-Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes
+# Objetivos do Projeto
+* Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes
 
-Abra o arquivo Projeto final-Ricardo.jpynb para acessar o projeto
+# Bibliotecas utilizadas
+* Foi utilizado neste projeto o modulo Numpy para criação de matrizes através da função array
+
+## Arquivo do Projeto
+* Abra o arquivo Projeto final-Ricardo.jpynb para acessar o projeto
+
+# Referências
+* OPENAI. ChatGPT . Disponível em: <https://chatgpt.com/>.
