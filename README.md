@@ -12,7 +12,7 @@
 -  Sistema Possível e Indeterminado (SPI)
 -  Sistema Impossível (SI)
 
-- ## ✨ Funcionalidades
+- ## Funcionalidades
 
 - Resolução de sistemas 2×2
 - Resolução de sistemas 3×3
@@ -21,7 +21,7 @@
 - Interface simples para entrada dos coeficientes
 - Exibição organizada dos resultados
 
-- ## 🧮 Exemplo de entrada
+- ## Exemplo de entrada
 
 ```python
 M_3x3 = [
@@ -33,7 +33,7 @@ M_3x3 = [
 
 ---
 
-## 📤 Exemplo de saída
+## Exemplo de saída
 
 ```text
 Solução:
@@ -128,13 +128,11 @@ else:
 
 ## 🎓 Informações
 
-## 🎓 Informações do Projeto
-
 | Categoria | Informações |
 |-----------|-------------|
 | 🏛️ **Instituição** | Ilum Escola de Ciência |
-| 👨‍🎓 **Aluno** | Ricardo Pereira Lourenço de Carvalho |
-| 👨‍🏫 **Docentes** | • Daniel Roberto Cassar<br>• James Moraes de Almeida<br>• **Leandro Nascimento Lemos** ([GitHub @llemos](https://github.com/llemos)) |
+| 👨‍🎓 **Aluno** | **Ricardo Pereira Lourenço de Carvalho**<br> GitHub: [@Ricardo Carvalho](https://github.com/Ricardo-Pereira-Lourenco) |
+| 👨‍🏫 **Docentes** | • Daniel Roberto Cassar<br>• James Moraes de Almeida<br>• **Leandro Nascimento Lemos**<br> GitHub: [@llemos](https://github.com/llemos) |
 
 
 <img loading="lazy" src="https://github.com/Lorena881/PCD_Analise_Espectroscopia/assets/172424739/c930826b-3189-41d5-b4cc-a33dbf3ee611">
