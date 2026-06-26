@@ -129,8 +129,8 @@ else:
 | Categoria | Informações |
 |-----------|-------------|
 | 🏛️ **Instituição** | Ilum Escola de Ciência |
-| 👨‍🎓 **Aluno** | **Ricardo Pereira Lourenço de Carvalho**<br> GitHub: [@Ricardo Carvalho](https://github.com/Ricardo-Pereira-Lourenco) |
-| 👨‍🏫 **Docentes** | • Daniel Roberto Cassar<br>• James Moraes de Almeida<br>• **Leandro Nascimento Lemos**<br> GitHub: [@llemos](https://github.com/llemos) |
+| 👨‍🎓 **Aluno** | **Ricardo Pereira Lourenço de Carvalho**<br>🔗 GitHub: [@Ricardo-Pereira-Lourenco](https://github.com/Ricardo-Pereira-Lourenco) |
+| 👨‍🏫 **Docentes** | **Daniel Roberto Cassar**<br>🔗 GitHub: [@drcassar](https://github.com/drcassar)<br><br>**James Moraes de Almeida**<br>🔗 GitHub: [@jamesmalmeida](https://github.com/jamesmalmeida)<br><br>**Leandro Nascimento Lemos**<br>🔗 GitHub: [@llemos](https://github.com/llemos) |
 
 
 <img loading="lazy" src="https://github.com/Lorena881/PCD_Analise_Espectroscopia/assets/172424739/c930826b-3189-41d5-b4cc-a33dbf3ee611">
