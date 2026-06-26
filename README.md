@@ -16,7 +16,67 @@
 # 📄 Detalhamento do código
 **Este programa em python busca solucionar sistemas lineares 3x3 e 2x2, covertendo os em matrizes 3X4 e matrizes 2x3 respectivamente. Assim, os metodos de calculo utilizados neste código se baseiam em matrizes triangulares como o método de eliminação de Gauss.**
 
-**Ao final das seções Sistemas Lineares 2x2 e 3x3 existem seus respectivos sumários contendo informações da matriz inicial, tipo do sistema, determinantes e suas soluções caso existam.**
+**O sistema linear:**
+ 
+        1 x + 2 y + 3 z = 11
+
+        3 x + 2 y + 1 z = 9
+
+        2 x + 3 y + 1 z = 10
+
+**Tem como representação matricial:**
+
+$$
+M =
+\begin{bmatrix}
+1 & 2 & 3 & 11 \\
+3 & 2 & 1 & 9 \\
+2 & 3 & 1 & 10
+\end{bmatrix}
+$$
+
+**E o código tem o objetivo de inicialmente converter a matriz reduzida (3x3) deste sistema em uma matriz triangular**
+
+**O processo de transformar a matriz em uma matriz triangular é essencial, pois facilita o calculo computacional.
+Neste sentido matrizes triangulares são aquelas que seguem o seguinte formato:**
+
+$$
+M =
+\begin{bmatrix}
+a & b & c \\
+0 & d & e \\
+0 & 0 & f
+\end{bmatrix}
+$$
+
+**Ao final das seções Sistemas Lineares 2x2 e 3x3 existem seus respectivos sumários contendo informações da matriz inicial, tipo do sistema, determinantes e suas soluções caso existam:**
+```python
+"""
+Exibe um resumo final do sistema.
+
+Mostra:
+sistema original
+determinante
+classificação
+soluções (caso existam)
+"""
+
+print(f"Seu sistema inicial é:\n{M_3x3}")
+print("")
+print(f"A determinante da matriz é {determinante_3x3(matriz_copia_3x3)}")
+print("")
+print(tipo_sistema_3x3(matriz_copia_3x3))
+print("")
+
+if respostas_sistema_3x3(matriz_copia_3x3) is not None:
+
+    print(f"Suas variáveis x, y e z são respectivamente:")
+    print(f"x = {respostas_sistema_3x3(matriz_copia_3x3)['x']}") 
+    print(f"y = {respostas_sistema_3x3(matriz_copia_3x3)['y']}")
+    print(f"z = {respostas_sistema_3x3(matriz_copia_3x3)['z']}")
+else:
+    print("Não foram encontradas soluções ao seu sistema")
+```
 
 # 🖥️ Ferramentas Utilizadas
 - **Jupyter Notebook para desenvolvimento do código**
