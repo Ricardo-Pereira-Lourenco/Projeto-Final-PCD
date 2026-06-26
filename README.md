@@ -2,8 +2,6 @@
 
 <img width="1774" height="887" alt="capa" src="https://github.com/user-attachments/assets/4f8677ec-8790-4ee8-aad3-1ef1ba25475a" />
 
-## Projeto de final de semestre da disciplina praticas em ciências de dados
-
 # 📄 Descrição do projeto
 **Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes**
 
