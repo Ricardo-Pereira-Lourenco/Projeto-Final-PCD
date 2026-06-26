@@ -8,9 +8,9 @@
 **Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes**
 
 
-- ✅ Sistema Possível e Determinado (SPD)
-- ⚠️ Sistema Possível e Indeterminado (SPI)
-- ❌ Sistema Impossível (SI)
+-  Sistema Possível e Determinado (SPD)
+-  Sistema Possível e Indeterminado (SPI)
+-  Sistema Impossível (SI)
 
 - ## ✨ Funcionalidades
 
@@ -126,15 +126,15 @@ else:
 # 🔎 Referências 
 * OPENAI. ChatGPT . Disponível em: <https://chatgpt.com/>.
 
-# Instituição
- **Ilum Escola de Ciência**
+## 🎓 Informações
 
-# Aluno
-**Ricardo Pereira Lourenço de Carvalho**
+## 🎓 Informações do Projeto
 
-# Docentes
--**Daneiel R. Cassar**
--**James
+| Categoria | Informações |
+|-----------|-------------|
+| 🏛️ **Instituição** | Ilum Escola de Ciência |
+| 👨‍🎓 **Aluno** | Ricardo Pereira Lourenço de Carvalho |
+| 👨‍🏫 **Docentes** | • Daniel Roberto Cassar<br>• James Moraes de Almeida<br>• **Leandro Nascimento Lemos** ([GitHub @llemos](https://github.com/llemos)) |
 
 
 <img loading="lazy" src="https://github.com/Lorena881/PCD_Analise_Espectroscopia/assets/172424739/c930826b-3189-41d5-b4cc-a33dbf3ee611">
