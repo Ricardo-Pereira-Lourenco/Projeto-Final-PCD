@@ -14,6 +14,9 @@
 **Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes**
 
 # 📄 Detalhamento do código
+**Este programa em python busca solucionar sistemas lineares 3x3 e 2x2, covertendo os em matrizes 3X4 e matrizes 2x3 respectivamente. Assim, os metodos de calculo utilizados neste código se baseiam em matrizes triangulares como o método de eliminação de Gauss.**
+
+**Ao final das seções Sistemas Lineares 2x2 e 3x3 existem seus respectivos sumários contendo informações da matriz inicial, tipo do sistema, determinantes e suas soluções caso existam.**
 
 # 🖥️ Ferramentas Utilizadas
 - **Jupyter Notebook para desenvolvimento do código**
