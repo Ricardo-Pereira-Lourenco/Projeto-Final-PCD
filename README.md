@@ -1,17 +1,52 @@
-![image](https://github.com/Lorena881/PCD_Analise_Espectroscopia/assets/172424739/e6ca9dbf-861e-4b91-91fe-0691270a5773)
-
 # <h1 align="center"> Analise De Sistemas Lineares
+
+<img width="1774" height="887" alt="capa" src="https://github.com/user-attachments/assets/4f8677ec-8790-4ee8-aad3-1ef1ba25475a" />
 
 ## Projeto de final de semestre da disciplina praticas em ciências de dados
 
-**Instituição: Ilum Escola de Ciência**
-
-**Aluno: Ricardo Pereira Lourenço de Carvalho**
-
-**Docentes: Daniel R. Cassar, James M. de Almeida, Leandro N. Lemos**
-
 # 📄 Descrição do projeto
 **Este projeto automatiza o processo da resolução de sistemas lineares 3x3 e 2x2 e da classificação destes**
+
+
+- ✅ Sistema Possível e Determinado (SPD)
+- ⚠️ Sistema Possível e Indeterminado (SPI)
+- ❌ Sistema Impossível (SI)
+
+- ## ✨ Funcionalidades
+
+- Resolução de sistemas 2×2
+- Resolução de sistemas 3×3
+- Classificação automática do sistema
+- Verificação da existência de solução
+- Interface simples para entrada dos coeficientes
+- Exibição organizada dos resultados
+
+- ## 🧮 Exemplo de entrada
+
+```python
+M_3x3 = [
+    [1 , 2 , 3 , 11],
+    [3 , 2 , 1 , 9 ],
+    [2 , 3 , 1 , 10]
+]
+```
+
+---
+
+## 📤 Exemplo de saída
+
+```text
+Solução:
+
+x = 1
+y = 2
+z = 2
+
+Determinante: 12
+
+Classificação:
+Sistema Possível e Determinado (SPD)
+```
 
 # 📄 Detalhamento do código
 **Este programa em python busca solucionar sistemas lineares 3x3 e 2x2, covertendo os em matrizes 3X4 e matrizes 2x3 respectivamente. Assim, os metodos de calculo utilizados neste código se baseiam em matrizes triangulares como o método de eliminação de Gauss.**
@@ -90,5 +125,16 @@ else:
 
 # 🔎 Referências 
 * OPENAI. ChatGPT . Disponível em: <https://chatgpt.com/>.
+
+# Instituição
+ **Ilum Escola de Ciência**
+
+# Aluno
+**Ricardo Pereira Lourenço de Carvalho**
+
+# Docentes
+-**Daneiel R. Cassar**
+-**James
+
 
 <img loading="lazy" src="https://github.com/Lorena881/PCD_Analise_Espectroscopia/assets/172424739/c930826b-3189-41d5-b4cc-a33dbf3ee611">
